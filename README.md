@@ -28,13 +28,23 @@ pikseli jaką posiada pewien fragment obrazu (o zadanym rozmiarze).
 
 
 **Przykład:**
+
 Wejście (in.txt):
+
 5 //rozmiar obrazu (5x5)
+
 10010
+
 11101
+
 10100
+
 01111
+
 11001
+
 3 //analizowany fragment rozmiaru 3x3
+
 Wyjście (out.txt):
+
 7 //tyle ciemnych pikseli ma fragment o największej ich liczbie (pogrubiony)
